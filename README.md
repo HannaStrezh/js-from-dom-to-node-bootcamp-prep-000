@@ -35,6 +35,7 @@ Let's bring that code over to our `index.js` file on the IDE. Make sure you are 
 
 ```javascript
 console.log("Hello, World!")
+
 ```
 
 Now when you hit Enter, nothing super interesting will happen. All that occurs is the cursor moves to a new line. That's because you are in the text editor. This is pretty much the same as using Word. To get this to actually return something like we did in the Console in the browser we need to _execute_ the `index.js` file. It sounds super official, but all we are going to do is tell the IDE "I'm ready, run this code and show me the result".
